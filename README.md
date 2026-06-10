@@ -71,69 +71,38 @@
 
 ## 📂 Featured Projects
 
-> 🔨 Projects coming soon — currently building. Watch this space!
+## 📂 Featured Projects
+
+### 🏠 [EstateIQ — AI-Powered Property Valuation Platform](https://github.com/bhaktibytes/EstateIQ)
+> Internship task jo ek full platform ban gaya 🔥
+
+| | |
+|---|---|
+| 🧠 **Models** | Linear Regression · Decision Tree · Random Forest · Gradient Boosting |
+| 📊 **Dataset** | California Housing — 20,640 records |
+| ⚡ **Stack** | Python · Scikit-learn · Pandas · NumPy · Matplotlib · Jupyter |
+| 💡 **Unique** | Went beyond model evaluation — built an actual usable platform |
 
 ---
 
-## 📚 Currently Learning
+### 🧠 [BECOME — AI Behaviour & Productivity Intelligence App](https://github.com/bhaktibytes/BECOME)
+> AI-powered digital mirror that shows you who you're becoming 🔥
 
-```python
-bhakti = {
-    "currently_learning": [
-        "ML model building — supervised & unsupervised",
-        "End-to-end ML workflow: data → model → deployment",
-        "SQL: window functions, CTEs, aggregations",
-        "Data storytelling with Power BI & Tableau",
-        "Generative AI & Prompt Engineering",
-    ],
-    "goal_2026": "Land an AI/ML or Data Science internship",
-    "fun_fact": "I debug with curiosity, not frustration 🙂"
-}
-```
+| | |
+|---|---|
+| 📱 **Type** | Mobile Application |
+| ⚡ **Stack** | Flutter · Firebase · Dart · AI · Bloc/Cubit |
+| 🏫 **Associated** | MIT-ADT University |
+| 🔄 **Status** | Active Development — Jan 2026–Present |
 
 ---
 
-## 🎯 2026 Goals
+### 💰 [XpenseWise — AI-Powered Student Money Mentor](https://github.com/bhaktibytes/XpenseWise)
+> Gamified fintech platform that makes saving money feel like a game 🔥
 
-- [ ] 🏢 Land an AI/ML or Data Science internship
-- [ ] 🗂️ Build 5 end-to-end portfolio projects
-- [ ] 🌐 Contribute to an open source ML project
-- [ ] 🚀 Deploy a live ML model online
-- [ ] 📊 Complete advanced SQL & data visualization projects
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bhaktibytes&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhaktibytes&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=bhaktibytes&theme=tokyonight&hide_border=true" width="49%"/>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bhaktibytes&theme=tokyonight&no-frame=true&row=1&column=6" width="100%"/>
-</div>
-
----
-
-## 🤝 Let's Connect
-
-<div align="center">
-
-I'm actively looking for **AI/ML and Data Science internship opportunities for 2026**.
-If you're building something interesting or have an opportunity — let's talk.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Bhakti_Unhale-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhakti-unhale-37610a362/)
-[![Email](https://img.shields.io/badge/Email-bhaktiunhale01@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhaktiunhale01@gmail.com)
-
-</div>
-
----
-
-<div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
-</div>
+| | |
+|---|---|
+| 🎮 **Type** | AI + Gamified Finance Web App |
+| ⚡ **Stack** | React · TypeScript · TailwindCSS · Firebase · Supabase · Recharts |
+| 🏫 **Associated** | MIT-ADT University |
+| 🔄 **Status** | Active Development — Aug 2025–Present |
