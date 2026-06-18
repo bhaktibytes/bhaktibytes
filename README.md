@@ -71,8 +71,6 @@
 
 ## 📂 Featured Projects
 
-## 📂 Featured Projects
-
 ### 🏠 [EstateIQ — AI-Powered Property Valuation Platform](https://github.com/bhaktibytes/EstateIQ)
 > Internship task jo ek full platform ban gaya 🔥
 
